@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+secrets.toml
+.streamlit/secrets.toml
+output/deploy_report.json
+*.p8
